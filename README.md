@@ -1,7 +1,7 @@
 # Lecture 24 Practice
 There are many CSS libraries and frameworks on the web that you can use simplify the styling of your site.  In this practice lesson we are going to look at [Bootstrap](https://getbootstrap.com) which is one of the most popular CSS frameworks.  There is extra CSS added to the `style.css` to format some of the spacing and sizing.
 
-![image](image.png)
+![image](.assets/image.png)
 
 ## Practice 1
 1. Set up your HTML file using the [Quick Start](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start) guide.
