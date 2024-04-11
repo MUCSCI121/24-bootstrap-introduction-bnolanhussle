@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    padding: 2rem;
+  }
+  
+  .card {
+    padding: 0.5em;
+  }
+  
+  img {
+    width: 400px;
+    height: 400px
+  }
+  
+  .carousel,
+  .carousel-inner {
+    width: 400px;
+  }
+  
+  button {
+    margin: 0.25em;
+  }
