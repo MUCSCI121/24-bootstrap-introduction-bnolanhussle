@@ -1,4 +1,4 @@
-# Lecture 23 Practice
+# Lecture 24 Practice
 There are many CSS libraries and frameworks on the web that you can use simplify the styling of your site.  In this practice lesson we are going to look at [Bootstrap](https://getbootstrap.com) which is one of the most popular CSS frameworks.  There is extra CSS added to the `style.css` to format some of the spacing and sizing.
 
 ![image](image.png)
@@ -31,14 +31,6 @@ There are many CSS libraries and frameworks on the web that you can use simplify
 2. Verify the carousel is working by click the next and previous buttons to see each of the four pictures.
 
 ------
-
-Provides the basic configuration to launch a GitHub Codespace environment ready for HTML, CSS, and JavaScript coding. The project will spin up a Codespace with the following plugins:
-
-- [Prettier](https://github.com/prettier/prettier-vscode)
-- [LiveServer](https://github.com/ritwickdey/vscode-live-server)
-- [GitDoc](https://github.com/lostintangent/gitdoc)
-
-The **Prettier** plugin helps format your code to a consistent style. The **LiveServer** plugin will launch a local web server to host your web pages. The server will automatically refresh the page when you save your changes. the **GitDoc** plugin allows you to automatically commit and push your changes to your repository on a periodic basis. To enable the **GitDoc** plugin you will need to go to update the Settings configuration for it.
 
 ## Configuration
 
